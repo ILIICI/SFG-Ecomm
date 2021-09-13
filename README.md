@@ -7,15 +7,14 @@
 3 Step: Test - to do
 4 Step: Launch - to do 
 DDL End of Sept.
-====================================================
-Using 
+
+USE TECH.
 Laratrust - for roles and permisions
 Tailwind css
 Breeze - Authentication
-
 MailTrap
-====================================================
-Install
+
+Installation
 
 1. Copy to your local machine
 2. art serve
